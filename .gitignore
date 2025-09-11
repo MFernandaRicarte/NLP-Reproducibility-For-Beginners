@@ -1,1 +1,10 @@
 .DS_Store
+# installers
+Miniconda3-*.sh*
+
+# caches
+__pycache__/
+*.pyc
+
+# saídas brutas
+generated_graphs/

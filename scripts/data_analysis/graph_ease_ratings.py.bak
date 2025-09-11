@@ -46,7 +46,7 @@ graph_data = GraphData(
     category_names=[SKILL_LEVEL_TITLES[p] for p in SKILL_LEVELS],
     figure_size=(135,6),
     colors=[SKILL_LEVEL_COLORS[p] for p in SKILL_LEVELS],
-    add_error_bars=False,
+    add_error_bars=True,
     font_size=26,
 )
 grouped_mean_bar_chart(graph_data, os.path.join(GRAPH_OUTPUT_DIR, "step_ease_ratings_by_skill_level.pdf"))
@@ -60,7 +60,7 @@ graph_data = GraphData(
     category_names=[PAPER_TITLES[p] for p in PAPERS],
     figure_size=(42,6),
     colors=[PAPER_COLORS[p] for p in PAPERS],
-    add_error_bars=False,
+    add_error_bars=True,
     font_size=26,
 )
 grouped_mean_bar_chart(graph_data, os.path.join(GRAPH_OUTPUT_DIR, "step_ease_ratings_by_paper.pdf"))

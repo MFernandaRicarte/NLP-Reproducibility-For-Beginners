@@ -1,0 +1,155 @@
+
+
+VIF (skill level):
+{0: inf, 1: inf, 2: 136.66666666666654, 3: 1.3333333333333333}
+
+VIF (comprehension):
+{0: 0.0, 1: 1.3333333333333335, 2: 0.0, 3: 1.3333333333333335, 4: 0.0, 5: nan, 6: 0.0}
+
+Spearman and Pearson correlations:
+
+Skill level variable 0:
+
+	Skill Level vs. Code Setup Time Spearman correlation: -0.828 (p=0.04179)
+
+	Skill Level vs. Code Setup Rating Spearman correlation: nan (p=nan)
+
+Skill level variable 1:
+
+	Skill Level vs. Code Setup Time Spearman correlation: -0.828 (p=0.04179)
+
+	Skill Level vs. Code Setup Rating Spearman correlation: nan (p=nan)
+
+Skill level variable 2:
+
+	Skill Level vs. Code Setup Time Spearman correlation: -0.828 (p=0.04179)
+
+	Skill Level vs. Code Setup Rating Spearman correlation: nan (p=nan)
+
+Skill level variable 3:
+
+	Skill Level vs. Code Setup Time Spearman correlation: -0.828 (p=0.04179)
+
+	Skill Level vs. Code Setup Rating Spearman correlation: nan (p=nan)
+
+Comprehension accuracy vs. code setup rating:
+
+	Paper Comprehension vs. Code Setup Time Spearman correlation: -0.829 (p=0.04156)
+
+	Paper Comprehension vs. Code Setup Rating Spearman correlation: nan (p=nan)
+
+	Paper Comprehension vs. Code Setup Rating linear regression/Pearson correlation: slope=0.00000 (+- 0.00000), intercept=2.00000, r=0.00000 (p=1.00000)
+
+Comprehension questions vs. code setup time and rating:
+
+Skill Level novice:
+
+	Q1: Paper Comprehension vs. Code Setup Time point biserial correlation: nan (p=nan)
+
+	Q2: Paper Comprehension vs. Code Setup Time point biserial correlation: nan (p=nan)
+
+	Q3: Paper Comprehension vs. Code Setup Time point biserial correlation: nan (p=nan)
+
+	Q4: Paper Comprehension vs. Code Setup Time point biserial correlation: nan (p=nan)
+
+	Q5: Paper Comprehension vs. Code Setup Time point biserial correlation: nan (p=nan)
+
+	Q6: Paper Comprehension vs. Code Setup Time point biserial correlation: nan (p=nan)
+
+	Q7: Paper Comprehension vs. Code Setup Time point biserial correlation: nan (p=nan)
+
+Skill Level intermediate:
+
+	Q1: Paper Comprehension vs. Code Setup Time point biserial correlation: nan (p=nan)
+
+	Q2: Paper Comprehension vs. Code Setup Time point biserial correlation: nan (p=nan)
+
+	Q3: Paper Comprehension vs. Code Setup Time point biserial correlation: nan (p=nan)
+
+	Q4: Paper Comprehension vs. Code Setup Time point biserial correlation: nan (p=nan)
+
+	Q5: Paper Comprehension vs. Code Setup Time point biserial correlation: nan (p=nan)
+
+	Q6: Paper Comprehension vs. Code Setup Time point biserial correlation: nan (p=nan)
+
+	Q7: Paper Comprehension vs. Code Setup Time point biserial correlation: nan (p=nan)
+
+Skill Level advanced:
+
+	Q1: Paper Comprehension vs. Code Setup Time point biserial correlation: nan (p=nan)
+
+	Q2: Paper Comprehension vs. Code Setup Time point biserial correlation: nan (p=nan)
+
+	Q3: Paper Comprehension vs. Code Setup Time point biserial correlation: nan (p=nan)
+
+	Q4: Paper Comprehension vs. Code Setup Time point biserial correlation: nan (p=nan)
+
+	Q5: Paper Comprehension vs. Code Setup Time point biserial correlation: nan (p=nan)
+
+	Q6: Paper Comprehension vs. Code Setup Time point biserial correlation: nan (p=nan)
+
+	Q7: Paper Comprehension vs. Code Setup Time point biserial correlation: nan (p=nan)
+
+Paper A:
+
+	Q1: Paper Comprehension vs. Code Setup Time point biserial correlation: nan (p=nan)
+
+	Q2: Paper Comprehension vs. Code Setup Time point biserial correlation: nan (p=nan)
+
+	Q3: Paper Comprehension vs. Code Setup Time point biserial correlation: nan (p=nan)
+
+	Q4: Paper Comprehension vs. Code Setup Time point biserial correlation: nan (p=nan)
+
+	Q5: Paper Comprehension vs. Code Setup Time point biserial correlation: nan (p=nan)
+
+	Q6: Paper Comprehension vs. Code Setup Time point biserial correlation: nan (p=nan)
+
+	Q7: Paper Comprehension vs. Code Setup Time point biserial correlation: nan (p=nan)
+
+Paper B:
+
+	Q1: Paper Comprehension vs. Code Setup Time point biserial correlation: nan (p=nan)
+
+	Q2: Paper Comprehension vs. Code Setup Time point biserial correlation: nan (p=nan)
+
+	Q3: Paper Comprehension vs. Code Setup Time point biserial correlation: nan (p=nan)
+
+	Q4: Paper Comprehension vs. Code Setup Time point biserial correlation: nan (p=nan)
+
+	Q5: Paper Comprehension vs. Code Setup Time point biserial correlation: nan (p=nan)
+
+	Q6: Paper Comprehension vs. Code Setup Time point biserial correlation: nan (p=nan)
+
+	Q7: Paper Comprehension vs. Code Setup Time point biserial correlation: nan (p=nan)
+
+Paper C:
+
+	Q1: Paper Comprehension vs. Code Setup Time point biserial correlation: nan (p=nan)
+
+	Q2: Paper Comprehension vs. Code Setup Time point biserial correlation: nan (p=nan)
+
+	Q3: Paper Comprehension vs. Code Setup Time point biserial correlation: nan (p=nan)
+
+	Q4: Paper Comprehension vs. Code Setup Time point biserial correlation: nan (p=nan)
+
+	Q5: Paper Comprehension vs. Code Setup Time point biserial correlation: nan (p=nan)
+
+	Q6: Paper Comprehension vs. Code Setup Time point biserial correlation: nan (p=nan)
+
+	Q7: Paper Comprehension vs. Code Setup Time point biserial correlation: nan (p=nan)
+
+Overall:
+
+	Q1: Paper Comprehension vs. Code Setup Time point biserial correlation: nan (p=nan)
+
+	Q2: Paper Comprehension vs. Code Setup Time point biserial correlation: -0.936 (p=0.00607)
+
+	Q3: Paper Comprehension vs. Code Setup Time point biserial correlation: nan (p=nan)
+
+	Q4: Paper Comprehension vs. Code Setup Time point biserial correlation: -0.717 (p=0.10874)
+
+	Q5: Paper Comprehension vs. Code Setup Time point biserial correlation: nan (p=nan)
+
+	Q6: Paper Comprehension vs. Code Setup Time point biserial correlation: nan (p=nan)
+
+	Q7: Paper Comprehension vs. Code Setup Time point biserial correlation: nan (p=nan)
