@@ -53,11 +53,16 @@ def scatter_plot_2d(graph_data: GraphData, save_path: str):
     figure(figsize=(8, 4))
     if point_categories is not None:
         for category in set(point_categories):
-            plt.scatter([xp for xp, c in zip(x, point_categories) if c == category],
-                        [yp for yp, c in zip(y, point_categories) if c == category],
-                        label=category, c=[cl for cl, c in zip(colors, point_categories) if c == category])
+            plt.scatter(
+    [xp for xp, c in zip(x, point_categories) if c == category],
+    [yp for yp, c in zip(y, point_categories) if c == category],
+    label=category,
+    c=[cl for cl, c in zip(colors, point_categories) if c == category],
+    s=70, edgecolors='k', linewidths=0.5, alpha=0.9
+)
     else:
-        plt.scatter(x, y, label=point_categories, c=colors)
+        plt.scatter(x, y, label=point_categories, c=colors,
+            s=70, edgecolors='k', linewidths=0.5, alpha=0.9)
 
     if add_line:
         x = np.array(x)
@@ -197,4 +202,4 @@ def stacked_count_bar_chart(graph_data: GraphData,  save_path: str, ungroup=Fals
         width, height = graph_data.figure_size
         fig.set_figwidth(width)
         fig.set_figheight(height)    
-    plt.savefig(save_path, bbox_inches="tight")            
+    plt.savefig(save_path, bbox_inches="tight")

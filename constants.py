@@ -14,11 +14,6 @@ PAPER_TITLES_SHORT = {
 
 DATA_PATH = "data_files/sample_data.json"
 SUBJECT_DATA = [Subject.from_dict(subject) for subject in json.load(open(DATA_PATH, 'r'))]
-for subject in SUBJECT_DATA:
-    for key in subject.postsurvey:
-        # Reverse difficulty ratings to be 5 for most difficult
-        if key.startswith('experiment_rating'):
-            subject.postsurvey[key] = 6 - subject.postsurvey[key]
 
 GOLD_RESULTS_PATH = './data_files/expert_reported_results.csv'
 GOLD_RESULTS_DATA = {row['result_id']: row for ri, row in pd.read_csv(GOLD_RESULTS_PATH).iterrows()}
